@@ -1,0 +1,41 @@
+:root {
+  /* Colors */
+  --color-white: #ffffff;
+  --color-white-100: #fafafa;
+  --color-grey-500: #4d4f62;
+  --color-grey-400: #6a7178;
+  --color-cyan: #44d3d2;
+  --color-red: #ea5454;
+  --color-blue: #549ef2;
+  --color-orange: #fcae4a;
+
+  /* Spacing */
+  --spacing-100: 0.5rem;
+  --spacing-200: 1rem;
+  --spacing-300: 1.5rem;
+  --spacing-400: 2rem;
+  --spacing-500: 2.5rem;
+
+  /* Typography Presets */
+  --font-family-poppins: "Poppins", system-ui, sans-serif;
+  --text-preset-1-font-size: 2.25rem;
+  --text-preset-1-font-weight: 600;
+  --text-preset-1-line-height: 1.4;
+  --text-preset-1-letter-spacing: 0.0156rem;
+  --text-preset-2-font-size: 2.25rem;
+  --text-preset-2-font-weight: 200;
+  --text-preset-2-line-height: 1.4;
+  --text-preset-2-letter-spacing: 0.0156rem;
+  --text-preset-3-font-size: 1.25rem;
+  --text-preset-3-font-weight: 600;
+  --text-preset-3-line-height: 1.35;
+  --text-preset-3-letter-spacing: 0rem;
+  --text-preset-4-font-size: 0.9375rem;
+  --text-preset-4-font-weight: 400;
+  --text-preset-4-line-height: 1.4;
+  --text-preset-4-letter-spacing: 0rem;
+  --text-preset-5-font-size: 0.8125rem;
+  --text-preset-5-font-weight: 400;
+  --text-preset-5-line-height: 1.6;
+  --text-preset-5-letter-spacing: 0rem;
+}

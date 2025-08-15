@@ -1,0 +1,9 @@
+html body {
+  font-family: var(--font-family-poppins);
+  background-color: var(--color-white-100);
+  scroll-behavior: smooth;
+}
+
+img {
+  height: auto;
+}
