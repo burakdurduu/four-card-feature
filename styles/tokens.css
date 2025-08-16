@@ -19,10 +19,12 @@
   /* Typography Presets */
   --font-family-poppins: "Poppins", system-ui, sans-serif;
   --text-preset-1-font-size: 2.25rem;
+  --text-preset-1-mobile-font-size: 1.5rem;
   --text-preset-1-font-weight: 600;
   --text-preset-1-line-height: 1.4;
   --text-preset-1-letter-spacing: 0.0156rem;
   --text-preset-2-font-size: 2.25rem;
+  --text-preset-2-mobile-font-size: 1.5rem;
   --text-preset-2-font-weight: 200;
   --text-preset-2-line-height: 1.4;
   --text-preset-2-letter-spacing: 0.0156rem;
@@ -31,6 +33,7 @@
   --text-preset-3-line-height: 1.35;
   --text-preset-3-letter-spacing: 0rem;
   --text-preset-4-font-size: 0.9375rem;
+  --text-preset-4-mobile-font-size: 0.9375rem;
   --text-preset-4-font-weight: 400;
   --text-preset-4-line-height: 1.4;
   --text-preset-4-letter-spacing: 0rem;
